@@ -287,13 +287,13 @@ p {
   padding-bottom: 60px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-end;
   padding-top: 60px;
 }
 
 .map {
   width: 100%;
-  height: 400px;
+  height: 200px;
 }
 
 .shop-about h4 {
